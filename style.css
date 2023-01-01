@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+#featured-property {
+  text-align: center;
+}
+a {
+  padding:10px;
+  background-color: gray;
+}
+p#featuredproperties {
+width: 800px;
+}
+
+divs#details{
+  float: left;
+}
+
+divs{
+  background-color: green;
+}
